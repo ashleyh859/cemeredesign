@@ -1,4 +1,4 @@
-# Cornell Eastern Music Ensemble (CEME) Website Redesign
+# Cornell Eastern Music Ensemble Website Redesign 🎶
 
 Note: Prototype and website are both in progress. 
 
