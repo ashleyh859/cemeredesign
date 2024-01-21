@@ -2,6 +2,6 @@
 
 Note: Prototype and website are both in progress. 
 
-**![Image](fashionappcover.png)**
+**![Image](cemenewwebdesign.png)**
 
-**![Image](fashionappcover.png)**
+**![Image](cemehomepage.png)**
